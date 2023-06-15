@@ -1,3 +1,8 @@
+<img width="449" alt="Screenshot 2023-06-15 at 15 12 13" src="https://github.com/mystafe/temperatureconverter/assets/75567558/e710c850-fe3a-45e9-8dd2-5cdf8bf46dbe">
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
